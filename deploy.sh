@@ -1,2 +1,6 @@
-adding this line in the master branch
-this file contains deployment scripts
+
+adding this line to the the master branch
+adding this line to the development branch
+this file contains deployment script
+
+
